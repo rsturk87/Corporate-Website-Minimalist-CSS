@@ -1,1 +1,2 @@
-# Corporate-Website-Minimalist-CSS
+# Corporate Website - Minimalist CSS
+![](print-screen-versao-02.png)
